@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 class MainActivity : AppCompatActivity() {
 
     private lateinit var webView: WebView
-    private val url = "http://tiny.local:8080" // <-- your Pi server URL
+    private val url = "http://blocker.local/admin/" // <-- your Pi server URL
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

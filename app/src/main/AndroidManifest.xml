@@ -7,8 +7,14 @@
 
     <application
         android:allowBackup="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.piholepatrol">
 
+=======
+        android:theme="@style/Theme.piholepatrol"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round">
+>>>>>>> 13273295147e0a18cb3458ffa68f35d2d562aee0
         <activity
             android:name=".MainActivity"
             android:exported="true"
