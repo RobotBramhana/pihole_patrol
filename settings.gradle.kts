@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "reminiscence"
+rootProject.name = "piholepatrol"
 include(":app")

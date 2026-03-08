@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.robotbramhana.reminiscence"
+    namespace = "com.robotbramhana.piholepatrol"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.robotbramhana.reminiscence"
+        applicationId = "com.robotbramhana.piholepatrol"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
